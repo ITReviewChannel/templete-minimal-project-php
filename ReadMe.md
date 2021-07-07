@@ -3,7 +3,7 @@
 
 Скачать шаблон:
 
-> git clone https://github.com/ITReviewChannel/templete-minimal-project-php your-folder-name
+> git clone https://github.com/itreviewchannel/templete-minimal-project-php your-folder-name
 
 Запуск Docker-контейнера:
 
